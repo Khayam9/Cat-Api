@@ -1,8 +1,8 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Cat API*
 
-Submitted by: **Your Name Here**
+Submitted by: **Khayam ahmadzai**
 
-This web app: **insert description**
+This web app: **Get random images from API and also show you what you have already seen.**
 
 Time spent: **X** hours spent in total
 
@@ -10,17 +10,17 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [ ] **Only one item/API call is viewable at a time**
-- [ ] **API calls appear random to the user**
-- [ ] **At least one image is displayed per API call**
+- [x] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [x] **Only one item/API call is viewable at a time**
+- [x] **API calls appear random to the user**
+- [x] **At least one image is displayed per API call**
 - [ ] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
 - [ ] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
 The following **optional** features are implemented:
 
 - [ ] Multiple types of attributes can be added to the ban list
-- [ ] Users can see a stored history of their previously viewed items from their session
+- [x] Users can see a stored history of their previously viewed items from their session
 
 The following **additional** features are implemented:
 
@@ -41,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge that I faced during the projet was to get attributes from the API and create a function to ban those attributes that are clicked by user.
 
 ## License
 
